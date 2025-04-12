@@ -5,7 +5,7 @@ Este diagrama ASCII representa o fluxo básico de suporte técnico simulado, inc
 This ASCII diagram illustrates the core flow of a simulated support environment, including client access, ERP system, add-ons, and database backend.
 
 ---
-
+```
                    [ Cliente / User ]
                         |
                         v
@@ -25,3 +25,4 @@ This ASCII diagram illustrates the core flow of a simulated support environment,
  |  Banco de Dados |
  |   SQL Server    |
  +-----------------+
+```
