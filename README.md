@@ -1,10 +1,10 @@
-<h1 align="center">🛠️ ERP Support Lab</h1>
+<h1 align="center">🛠️ Technical Support Engineer Lab</h1>
 
 <p align="center">
   <strong>ERP · SQL · .NET · Diagnóstico · Suporte Técnico · Debug · Documentação Profissional</strong><br>
-  <em>Laboratório técnico para validar e exercitar competências reais em ambientes de suporte ERP</em><br>
+  <em>Laboratório técnico para validar e exercitar competências reais em ambientes de suporte profissional</em><br>
   <strong>ERP · SQL · .NET · Troubleshooting · Technical Support · Debug · Professional Documentation</strong><br>
-  <em>Technical lab to validate and practice real-world ERP support engineering skills</em>
+  <em>Technical lab to validate and practice real-world support engineering skills</em>
 </p>
 
 <p align="center">
