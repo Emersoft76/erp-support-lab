@@ -64,7 +64,7 @@
 
 ## 📁 Estrutura do Repositório / Repository Structure
 
-/erp-support-lab/ │ ├── 📄 README.md │ ├── 📁 docs/ │ ├── 📄 incident_cases.md │ ├── 📄 support_process.md │ ├── 📄 erp_functional_flow.md │ └── 📄 sql_queries_examples.md │ ├── 📁 backend-debug/ │ ├── 📄 debug_notes.md │ └── 📄 simulated_error_log.txt │ ├── 📁 addons-csharp/ │ ├── 📄 addon_validador_campo.cs │ ├── 📄 addon_validacao_data.cs │ └── 📄 README.md │ ├── 📁 database/ │ ├── 📄 erp_mock_schema.sql │ ├── 📄 example_queries.sql │ └── 📄 README.md │ └── 📁 assets/ └── 📁 diagrams/ └── 📄 support_architecture.md
+/erp-support-lab/ │ ├── 📄 README.md │ ├── 📁 docs/ │ ├── 📄 incident_cases.md │ ├── 📄 support_process.md │ ├── 📄 erp_functional_flow.md │ ├── 📄 sql_queries_examples.md │ └── 📄 glpi_setup.md │ ├── 📁 backend-debug/ │ ├── 📄 debug_notes.md │ └── 📄 simulated_error_log.txt │ ├── 📁 addons-csharp/ │ ├── 📄 addon_validador_campo.cs │ ├── 📄 addon_validacao_data.cs │ └── 📄 README.md │ ├── 📁 database/ │ ├── 📄 erp_mock_schema.sql │ ├── 📄 example_queries.sql │ └── 📄 README.md │ └── 📁 assets/ └── 📁 diagrams/ └── 📄 support_architecture.md
 
 ---
 
