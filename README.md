@@ -68,6 +68,28 @@
 
 ---
 
+## 🔎 Visão Geral dos Arquivos / Quick File Overview
+
+| 📄 Arquivo / File                          | 📝 Descrição / Description                                                      |
+|-------------------------------------------|----------------------------------------------------------------------------------|
+| [README.md](./README.md)                  | Descrição principal do projeto e índice navegável                               |
+| [incident_cases.md](./docs/incident_cases.md) | Casos reais simulados de suporte técnico em ERP                                |
+| [support_process.md](./docs/support_process.md) | Fluxo de atendimento técnico e documentação de suporte                         |
+| [erp_functional_flow.md](./docs/erp_functional_flow.md) | Módulos do ERP e suas funções                                                  |
+| [sql_queries_examples.md](./docs/sql_queries_examples.md) | Consultas SQL úteis no diagnóstico de suporte                                  |
+| [glpi_setup.md](./docs/glpi_setup.md)     | Guia completo para instalar e configurar o GLPI como servidor de chamados       |
+| [debug_notes.md](./backend-debug/debug_notes.md) | Análise de erros e mensagens de log simuladas                                 |
+| [simulated_error_log.txt](./backend-debug/simulated_error_log.txt) | Arquivo de log com falhas simuladas                                            |
+| [addon_validador_campo.cs](./addons-csharp/addon_validador_campo.cs) | Validação de campo obrigatório (CNPJ) em C#                                   |
+| [addon_validacao_data.cs](./addons-csharp/addon_validacao_data.cs) | Validação de datas no contexto do ERP                                         |
+| [addons-csharp/README.md](./addons-csharp/README.md) | Instruções para execução dos add-ons com .NET CLI                              |
+| [erp_mock_schema.sql](./database/erp_mock_schema.sql) | Estrutura de banco de dados ERP para simulações                               |
+| [example_queries.sql](./database/example_queries.sql) | Consultas reais de apoio ao suporte técnico                                   |
+| [database/README.md](./database/README.md) | Documentação sobre a estrutura de banco de dados                               |
+| [support_architecture.md](./assets/diagrams/support_architecture.md) | Diagrama ASCII do ambiente técnico de suporte                                 |
+
+---
+
 ## ©️ Licença / License
 
 Distribuído sob a [MIT License](./LICENSE).
