@@ -1,0 +1,14 @@
+[2024-04-14 09:41:12] INFO: Início da sessão do usuário 'maria.rocha'
+[2024-04-14 09:41:13] ERROR: Autenticação falhou para usuário 'maria.rocha' - senha inválida
+[2024-04-14 09:41:17] ERROR: SQLSTATE[42000]: Syntax error near 'GROUP' on line 1
+[2024-04-14 09:42:03] INFO: Sessão encerrada: 'maria.rocha'
+
+[2024-04-14 10:02:44] INFO: Tentando conectar ao banco de dados ERP_PRODUCAO
+[2024-04-14 10:02:45] ERROR: [Microsoft][ODBC SQL Server] Unable to connect to database - timeout expired
+[2024-04-14 10:03:11] INFO: Conexão restabelecida após reinício do serviço SQL Server
+
+[2024-04-14 11:20:08] WARNING: Acesso negado ao módulo 'Faturamento' para o perfil 'Financeiro Jr.'
+[2024-04-14 11:20:15] INFO: Redirecionamento automático para tela inicial
+
+[2024-04-14 12:05:37] ERROR: Falha na geração da fatura #89322 - campo obrigatório 'CNPJ' não preenchido
+[2024-04-14 12:06:01] INFO: Campo 'CNPJ' adicionado, fatura processada com sucesso
